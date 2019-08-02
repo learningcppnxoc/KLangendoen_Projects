@@ -1,0 +1,6 @@
+
+*.exe
+*.json
+*.sqlite
+*.db
+.vs/KLangendoen_Projects/v16/.suo
